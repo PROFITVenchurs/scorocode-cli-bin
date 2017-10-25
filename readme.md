@@ -1,4 +1,7 @@
 
+Сборка:
+**sha1** 897b16c78ec13fd5b683cd11cd7213ae01d0c140 - [scorocode-cli_1.0.0_amd64.deb](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.0.0_amd64.deb)
+
 ## Инструкция по использованию *scorocode-cli*
 
 scorocode-cli - консольная утилита для работы с приложениями на https://scorocode.ru
