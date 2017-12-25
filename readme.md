@@ -1,9 +1,9 @@
 
 Сборка:
 
-- **sha1** 89906f0659353beb1aca4de75f05c00f3caec9c4 - [scorocode-cli_amd64.deb](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.9_amd64.deb)
-- **sha1** 01a86c488559274e53908f653b17fd3d759938e5 - [scorocode-cli.pkg](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli-1.3.9.pkg)
-- **sha1** d545605d510ee2cecdf7beb82bf87ec0fa3ab50e - [scorocode-cli_x86.msi](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.9_x86.msi)
+- **sha1** 68d81f8044f02836826a37caa2010421cb68142f - [scorocode-cli_amd64.deb](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.10_amd64.deb)
+- **sha1** 1e68cddcfaeea0ee8dd57e64c8c248ea42499d82 - [scorocode-cli.pkg](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli-1.3.10.pkg)
+- **sha1** ad5ecd0c971c58123e7e1695681a85a2d20618fe - [scorocode-cli_x86.msi](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.10_x86.msi)
 
 
 # Инструкция по использованию *scorocode-cli*
