@@ -1,9 +1,10 @@
 
 Сборка:
 
-- **sha1** 4a9c095e2276e2f348bd26a6b64620e6daa8ad46 - [scorocode-cli_amd64.deb](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.11_amd64.deb)
-- **sha1** 066eda1e31ed51b74e0a970ce8c918e3378312ef - [scorocode-cli.pkg](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli-1.3.11.pkg)
-- **sha1** 3c9890174ac8b496a863ee45279c385d67aceacd - [scorocode-cli_x86.msi](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.11_x86.msi)
+- **sha1** d8f83443410586988e60893e02ae79d398e47176 - [scorocode-cli_amd64.deb](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.12_amd64.deb)
+- **sha1** bfd01edcb1f48c91d38b33b7b7f0ba3d3ea1cf1d - [scorocode-cli.pkg](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli-1.3.12.pkg)
+- **sha1** d9536d26d974bcbc212869fce72e22c78cea5331 - [scorocode-cli_x86.msi](https://github.com/PROFITVenchurs/scorocode-cli-bin/blob/master/scorocode-cli_1.3.12_x86.msi)
+
 
 
 # Инструкция по использованию *scorocode-cli*
@@ -135,7 +136,7 @@ _**ВНИМАНИЕ!**_ **Не рекомендуется выкладывать
 - в файле [scorocode.json](#scorocodejson) установить путь к файлу со статическим контентом в локальной файловой системе. Параметр *"static"*
 
 ```bash
-scorocode-cli static [-dir <путь к каталогу, в котором находится файл scorocode.json. По умолчанию - это текущий каталог>]
+scorocode-cli static [-dir <путь к каталогу, в котором находится файл scorocode.json. По умолчанию - это текущий каталог>] [-email <email зарегистрированного пользователя. Если не указан, будет запрошен для интерактивного ввода в процессе выполнения команды>] [-password <пароль зарегистрированного пользователя. Если не указан, будет запрошен для интерактивного ввода в процессе выполнения команды>]
 ```
 ### Коллекции
 
